@@ -40,4 +40,4 @@ All processing happens **locally in the browser**.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/staruml-watermark-remover.git
+   git clone https://github.com/waelby99/staruml-watermark-remover.git
